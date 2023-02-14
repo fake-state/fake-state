@@ -7,3 +7,9 @@
 
 Now learning `c#` and `python`
 
+<div> 
+
+ 
+  ![Snake animation](https://github.com/fake-state/fake-state/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
