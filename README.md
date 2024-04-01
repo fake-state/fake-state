@@ -5,7 +5,7 @@
 
 `looking for an internship in an IT company`
 
-Now learning `c#` and `python`
+Now learning `java` and `python`
 
 ## Contact 
 <div> 
